@@ -1,0 +1,17 @@
+---
+title: "first-analysis"
+author: "vincentqan"
+date: "2020-05-18"
+output: workflowr::wflow_html
+editor_options:
+  chunk_output_type: console
+---
+
+## Introduction
+
+```{r}
+
+```
+#环境参数设置
+      rm(list = ls())
+      options(stringsAsFactors = F)
